@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: MorningCoder :)
 !-- Actual text -->
 
-You can find me on [![LinkedIn][3.2]][3].
+You can find me on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
