@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Blockchain Projects
 - 💬 Ask me about Problem Solving
 - ⚡ Fun fact: MorningCoder :)
-- 
+
 
 
 You can find me on [![LinkedIn][2.2]][2].
