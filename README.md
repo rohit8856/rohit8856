@@ -8,9 +8,18 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Advanced DSA Concepts 
 - 👯 I’m looking to collaborate on Blockchain Projects
 - 💬 Ask me about Problem Solving
-- 📫 How to reach me: https://www.linkedin.com/in/rohit-singh-3837111a1/.
 - ⚡ Fun fact: MorningCoder :)
+!-- Actual text -->
 
+You can find me on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+[1.1]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://www.linkedin.com/in/rohit-singh-3837111a1/
 
 
 ![](https://komarev.com/ghpvc/?username=your-rohitya8856&style=flat-square)
