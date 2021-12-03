@@ -1,4 +1,4 @@
-### Hi I am Rohit , (https://github.com/TheDudeThatCode/TheDudeThatCode/blob/db8f1cbd38ac0ae2a08f36f961096dbd59a02393/Assets/Hi.gif)
+### Hi I am Rohit , <img src = "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/db8f1cbd38ac0ae2a08f36f961096dbd59a02393/Assets/Hi.gif">
 
 <!-- **rohitya8856/rohitya8856** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
