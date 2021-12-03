@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Problem Solving.
 - 📫 How to reach me: https://www.linkedin.com/in/rohit-singh-3837111a1/.
 - ⚡ Fun fact: MorningCoder :)
--->![](https://komarev.com/ghpvc/?username=your-rohitya8856&style=flat-square)
+![](https://komarev.com/ghpvc/?username=your-rohitya8856&style=flat-square)
 
