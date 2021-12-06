@@ -2,7 +2,7 @@
 
 <!-- **rohitya8856/rohitya8856** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+About Me :
 
 - 🔭 I’m currently working on Automation Testing
 - 🌱 I’m currently learning Advanced DSA Concepts 
