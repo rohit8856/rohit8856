@@ -1,32 +1,5 @@
-### HEY, I am Rohit  <img src = "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/db8f1cbd38ac0ae2a08f36f961096dbd59a02393/Assets/Hi.gif" width ="30px">
-
-<!-- **rohitya8856/rohitya8856** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-About Me :
-
-- 🔭 I’m currently working on Automation Testing
-- 🌱 I’m currently learning Advanced DSA Concepts 
-- 👯 I’m looking to collaborate on Blockchain Projects
-- 💬 Ask me about Problem Solving
-- ⚡ Fun fact: MorningCoder :)
-
-
-
-You can find me on [![LinkedIn][2.2]][2].
-
-<!-- Icons -->
-
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[2]: https://www.linkedin.com/in/rohit-singh-3837111a1/
-
 
 ![](https://komarev.com/ghpvc/?username=your-rohitya8856&style=flat-square)
-//
-
-
 
 
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
@@ -46,7 +19,7 @@ You can find me on [![LinkedIn][2.2]][2].
   
   
   <em>
-    Hello, I am Rohit Singh <b> currently working as a Software Engineer</b>  Software Engineer <b> HSBC Development</b></a>. <br>
+    Hello, I am Rohit Singh <b> currently working as a Software Engineer</b>at <b> HSBC Software Development</b></a>. <br>
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Software Developer </b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>
   </em> 
   <br>
