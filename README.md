@@ -29,8 +29,8 @@
 <div>
   <h2> About Me <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png" width = 30px></h2>
 
-
- <img align="right" height=300px  width=250px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
+<!-- 
+ <img align="right" height=300px  width=250px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" /> -->
 
 - 🔭 I’m currently working on Full Stack Development(Java)
   
