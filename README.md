@@ -39,7 +39,6 @@
 - 👯 I’m looking to collaborate on Blockchain Projects
 - 💬 Ask me about Problem Solving
 - ⚡ Fun fact: MorningCoder :)
-  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">
 
   
 #### A little more about me
