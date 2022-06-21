@@ -53,7 +53,7 @@ const Rohit = {
 }
 ```
 </div>  
-<h2 align="left">Connect with me:  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px"> </h2>
+<h2 align="left">Connect with me:  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="60"> </h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/rohit-singh-3837111a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohitya8856" height="30" width="40" /></a>
 <a href="https://leetcode.com/rohit88560/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rohit88560" height="30" width="40" /></a>
